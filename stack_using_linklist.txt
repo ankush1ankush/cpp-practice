@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+class Node{
+    int data;
+    Node *nextNode;
+    Node(int data){
+        this->data=data;
+        nextNode=NULL;
+    }
+};
+Node *list{
+    
+}
